@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently learning Gen AI
 
-- 💬 Ask me about **Java,Javascript,MongoDB,SQL**  
+- 💬 Ask me about **Python,Javascript,MongoDB,SQL**  
 
 - 📫 How to reach me **hrajoriya728@gmail.com**
 
